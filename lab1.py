@@ -101,3 +101,6 @@ koszt = srspal + spalane
 #tekst wynik
 print(f"Zużycie paliwa za odcinku {drogalos} kilometrów wyniesie: {round(spalane, 2)} litrów")
 print(f"Koszt podróży: {round(koszt, 2)} złotych")
+
+#6.2
+#moje funkcje print() już korzystają z f-stringów
